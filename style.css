@@ -1,5 +1,5 @@
 body {
-  background: #342E37;
+  background: #4d0074;
   }
 
 .container {
@@ -56,4 +56,12 @@ form {
 .btn:active {
   box-shadow: none;
   top: 6px; 
-} 
+
+}
+  footer{
+  color: #fff;
+  font-family: 'Space Mono', monospace;
+  font-size: xx-small;
+  text-align: center;
+  margin-top: 20px;
+}
